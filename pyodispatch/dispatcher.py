@@ -28,7 +28,7 @@ Internal attributes:
 		vs. the original code.)
 """
 import weakref
-from pydispatch import saferef, robustapply, errors
+from pyodispatch import saferef, robustapply, errors
 import copy
 
 class _Parameter:

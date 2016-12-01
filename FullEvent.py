@@ -1,4 +1,4 @@
-from pydispatch import dispatcher as dp
+from pyodispatch import dispatcher as dp
 import copy
 
 def dictMerge(*dicts):

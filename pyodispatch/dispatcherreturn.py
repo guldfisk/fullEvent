@@ -26,7 +26,7 @@ Internal attributes:
         vs. the original code.)
 """
 import weakref
-from pydispatch import saferef, robustapply, errors
+from pyodispatch import saferef, robustapply, errors
 
 class _Parameter:
     """Used to represent default parameter values."""
